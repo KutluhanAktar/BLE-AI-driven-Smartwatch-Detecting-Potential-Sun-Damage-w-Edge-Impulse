@@ -10,7 +10,7 @@ Log UV & weather data on an SD card to train an Edge Impulse model. Then, run it
 
 # Inspect the project tutorial on:
 
-- **[kutluhanaktar.com](https://www.kutluhanaktar.com/)**
+- **[kutluhanaktar.com](https://www.kutluhanaktar.com/projects/BLE_AI_driven_Smartwatch_Detecting_Potential_Sun_Damage_w_Edge_Impulse/)**
 - **[Hackster](https://www.hackster.io/kutluhan-aktar/ble-ai-driven-smartwatch-detecting-potential-sun-damage-7d08be)**
 - **[Instructables](https://www.instructables.com/BLE-AI-driven-Smartwatch-Detecting-Potential-Sun-D/)**
 - **[Hackaday](https://hackaday.io/project/185746-ble-ai-driven-smartwatch-detecting-sun-damage)**
